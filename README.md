@@ -48,3 +48,20 @@
 ## 发布到 GitHub
 
 见 `docs/发布到GitHub.md`。
+
+## 项目截图
+
+### 注册页面
+![注册页面](./images/注册页面.png)
+
+### 登录页面
+![登录页面](./images/登录页面.png)
+
+### 首页
+![首页](./images/首页.png)
+
+---
+
+## 项目展示
+
+本项目基于 [黑马程序员 SpringBoot3+Vue3 全套视频教程](https://www.bilibili.com/video/BV14z4y1N7pg?spm_id_from=333.788.videopod.episodes&vd_source=8fe4bb97348fb68a474426608e304a8b) 学习实践，提供完整的前后端分离开发方案。

@@ -1,5 +1,8 @@
 # big-event（前后端分离）
 
+本项目根据 **黑马程序员 SpringBoot3+Vue3 全套视频教程** 学习实践而来  
+教程地址：[SpringBoot3+Vue3企业级全栈开发从基础、实战到面试一套通关](https://www.bilibili.com/video/BV14z4y1N7pg?spm_id_from=333.788.videopod.episodes&vd_source=8fe4bb97348fb68a474426608e304a8b)
+
 一个 Spring Boot + MyBatis 的后端服务，配套 Vue3 + Vite 的前端页面，包含用户、文章分类、文章管理等基础功能。
 
 ## 目录结构
@@ -59,9 +62,3 @@
 
 ### 首页
 ![首页](./images/首页.png)
-
----
-
-## 项目展示
-
-本项目基于 [黑马程序员 SpringBoot3+Vue3 全套视频教程](https://www.bilibili.com/video/BV14z4y1N7pg?spm_id_from=333.788.videopod.episodes&vd_source=8fe4bb97348fb68a474426608e304a8b) 学习实践，提供完整的前后端分离开发方案。

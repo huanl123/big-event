@@ -48,9 +48,6 @@
 - 前端出现 `http proxy error ... ECONNREFUSED`：一般是后端没启动成功或端口不对；确认后端端口在监听（默认 `8081`）。
 - 后端编译报 `JCTree...qualid`：通常是 JDK 版本过高导致（例如 JDK 22）；请使用 JDK 17。
 
-## 发布到 GitHub
-
-见 `docs/发布到GitHub.md`。
 
 ## 项目截图
 
